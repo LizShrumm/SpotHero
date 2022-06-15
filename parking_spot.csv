@@ -1,0 +1,501 @@
+parking_spot_id,title,created,spaces,status,reporting_market_id,city,neighborhood
+3178,1640 W Jackson Blvd. - Garage,2013-08-02 15:06:45,50,active,1,Chicago,United Center
+5166,PreFlight OHare - Covered Self Park,2015-09-30 18:46:29,20,active,1,Chicago,ORD
+1373,400 S Franklin St. - Lot,2013-04-02 15:27:55,30,active,1,Chicago,Loop SW
+518,100 W Chestnut St. - Garage,2015-10-26 15:48:34,175,active,1,Chicago,Near North
+1860,922 W Washington Blvd. - Circa 922 Garage,2015-12-23 16:02:17,17,active,1,Chicago,West Loop
+3087,281 N Franklin St. - Garage,2020-05-19 21:19:18,30,active,1,Chicago,Loop NW
+5086,Millennium Park Garage,2016-09-15 16:43:29,220,active,1,Chicago,Loop NE
+611,910 W Wrightwood Ave. - Lot,2018-08-14 20:19:33,3,active,1,Chicago,Lincoln Park
+650,2126 W Wabansia Ave. - Under EL,2013-07-22 20:24:53,1,active,1,Chicago,Wicker Park
+3952,Hyatt Regency OHare Chicago - Covered or Uncovered Self Park,2018-04-04 18:09:54,60,active,1,Chicago,ORD
+1530,728 W. Addison St. - Personal Spot - Spot #D4,2018-04-16 16:03:34,1,active,1,Chicago,Wrigleyville
+1767,2811 N Lincoln Ave. - Lot,2016-07-25 21:37:47,4,active,1,Chicago,Lakeview - Chicago
+5236,212 E Ohio St. - Coco Pazzo Valet,2016-06-11 23:04:25,5,inactive,1,Chicago,Magnificent Mile
+656,1032 W Byron St. - Personal Spot - Spot #22,2018-01-22 19:55:55,1,active,1,Chicago,Wrigleyville
+2009,360 W Hubbard St. - Hubbard Place Garage,2016-12-29 22:30:39,75,active,1,Chicago,River North
+2387,300 E Ohio St. - DoubleTree Hotel Garage,2019-11-26 17:17:07,100,active,1,Chicago,Streeterville
+6392,50 E Bellevue Pl - Valet Garage,2018-12-26 22:56:07,5,active,1,Chicago,Gold Coast
+231,Chicago Marriott OHare - Uncovered Self Park,2013-01-05 18:29:36,140,active,1,Chicago,ORD
+4322,225 N Columbus Dr. - The Aqua Garage,2015-01-27 19:52:03,40,active,1,Chicago,Loop NE
+1929,951 W Newport Ave. - Under EL,2012-02-02 13:50:12,6,active,1,Chicago,Lakeview - Chicago
+451,1 S Lower Wacker Dr. - Garage,2013-04-15 17:13:58,50,active,1,Chicago,Loop NW
+180,111 N Wabash Ave. - Valet,2019-02-01 17:55:47,75,active,1,Chicago,Loop NE
+4985,Commonwealth Plaza - Valet,2013-10-02 20:06:22,10,active,1,Chicago,Lakeview - Chicago
+2538,220 E Chicago Ave. - Museum of Contemporary Art - Garage,2017-01-17 16:37:49,45,active,1,Chicago,Magnificent Mile
+5820,One Spot Airport Valet - Covered Valet,2019-07-23 15:21:14,100,active,1,Chicago,ORD
+5460,Hyatt Place - Uncovered Self Park,2017-05-16 16:44:09,25,active,1,Chicago,ORD
+5528,1119 W Addison St. - Lot Spot #2,2019-06-06 20:50:56,1,active,1,Chicago,Wrigleyville
+1009,Chicago Marriott Midway - Uncovered Self Park,2017-04-03 19:55:18,25,active,1,Chicago,MDW
+4157,3620 N Wilton Ave. - Personal Spot,2018-08-17 17:33:55,3,active,1,Chicago,Wrigleyville
+6032,110 E Delaware Pl. - Valet Garage,2018-04-25 18:23:14,15,active,1,Chicago,Magnificent Mile
+4767,1139 W Waveland Ave. - Valet Assist Lot,2018-04-10 18:42:43,0,active,1,Chicago,Wrigleyville
+1104,130 E Oak St. (1000 N Lake Shore Dr. - Valet Garage),2016-04-21 19:45:23,50,active,1,Chicago,Gold Coast
+4394,150 W Roosevelt Rd. - Roosevelt Collection,2019-09-05 15:31:08,250,active,1,Chicago,South Loop
+4297,26 N Damen Ave. - Lot,2019-09-23 14:57:00,50,active,1,Chicago,United Center
+3084,735 W Belmont Ave. - Lot,2020-05-05 16:28:30,2,active,1,Chicago,Lakeview - Chicago
+2094,2215 N Clifton Ave. - Lot,2017-02-13 22:03:18,2,active,1,Chicago,Lincoln Park
+1645,430 W Ohio St. - Lot,2014-04-30 22:00:53,20,active,1,Chicago,River North
+420,730 S Clark St. - Burnham Pointe Garage,2015-09-10 13:47:01,20,active,1,Chicago,South Loop
+1350,Grand Plaza - Garage,2013-12-13 21:52:38,310,active,1,Chicago,River North
+1576,35 S Dearborn St. (30 W Monroe Building) - Garage,2018-08-10 18:27:10,5,active,1,Chicago,Loop SW
+5596,901 S Wabash Ave. - Lot,2012-02-02 16:34:26,25,active,1,Chicago,South Loop
+5953,328 S Wabash Ave. - Lot,2014-05-29 19:03:21,10,active,1,Chicago,Loop SE
+3574,1050 W Byron St. - Personal Spot - Spot #18,2017-05-25 15:28:58,1,active,1,Chicago,Wrigleyville
+2790,623 W Monroe St. - Lot,2014-05-26 22:51:53,40,active,1,Chicago,West Loop
+1464,162 W Harrison (515 S Financial Pl. - Facility),2015-06-29 14:30:00,100,active,1,Chicago,Loop SW
+6405,1 E Delaware Pl. - Garage,2018-07-02 21:37:46,35,active,1,Chicago,Magnificent Mile
+189,20 E Cullerton St. - Under EL,2015-03-31 16:19:23,21,active,1,Chicago,Near South Side
+4447,172 W Madison St. - Washington-Madison-Wells Garage,2019-01-02 19:50:24,240,active,1,Chicago,Loop NW
+3502,2380 N Commonwealth Ave (345 W Fullerton Building). - Valet Garage,2017-09-11 23:09:54,25,active,1,Chicago,Lincoln Park
+2463,320 W Erie St. - Lot,2020-07-29 13:07:54,15,active,1,Chicago,River North
+6085,1030 N State St. - Newberry Plaza - Garage,2017-03-28 21:13:07,85,active,1,Chicago,Gold Coast
+1967,1 W Wacker Dr. - Renaissance Hotel Chicago - Valet Garage,2017-02-22 18:06:53,0,active,1,Chicago,Loop NW
+235,230 W Washington St. - Washington-Franklin Garage,2015-01-06 6:07:18,125,active,1,Chicago,Loop NW
+963,3701 N Kenmore Ave. - Personal Spot,2016-06-17 22:25:56,1,active,1,Chicago,Wrigleyville
+5063,719 N Rush St. (100 E Huron St.) - Chicago Place Valet Garage,2018-01-04 23:07:54,25,active,1,Chicago,Magnificent Mile
+4181,322 E Illinois St - River East Garage,2020-03-10 16:59:55,500,active,1,Chicago,Streeterville
+386,863 N Orleans St. - Lot,2017-06-05 17:02:50,25,active,1,Chicago,Near North
+5361,1545 W North Ave - Lot,2020-04-23 16:04:54,3,active,1,Chicago,Wicker Park
+2940,525 S Wells St. - Lot,2012-12-07 23:11:57,10,active,1,Chicago,Loop SW
+5747,1722 W Warren Blvd. - Lot,2019-09-23 16:44:32,50,active,1,Chicago,United Center
+1613,950 W George St. - Under EL,2012-02-02 14:16:45,11,active,1,Chicago,Lakeview - Chicago
+12,200 W Randolph St. - Garage,2015-01-06 6:15:53,100,active,1,Chicago,Loop NW
+96,434 S Wabash Ave. - Lot,2014-05-26 22:22:54,5,active,1,Chicago,Loop SE
+970,1135 Westgate St. - The Emerson - Garage,2017-09-20 17:54:17,75,active,1,Chicago,Oak Park
+4675,1157 W Newport Ave. - Personal Spot - Unit B,2018-05-02 18:21:48,1,active,1,Chicago,Lakeview - Chicago
+5845,1847 W Division St. - Lot,2018-05-01 20:43:49,20,active,1,Chicago,Wicker Park
+5099,221 E Chestnut St. - Self Park,2013-07-16 22:03:33,25,active,1,Chicago,Magnificent Mile
+2273,7331 N Sheridan Rd. - Garage,2015-07-07 22:01:15,30,active,1,Chicago,Rogers Park
+616,Fulton West Building - Garage,2017-08-23 13:55:29,100,active,1,Chicago,West Loop
+3822,102 N Wabash Ave. - Macys Valet Stand,2018-07-25 20:46:26,30,active,1,Chicago,Loop NE
+3258,1035 Van Buren St. - Landmark West Loop - Garage,2017-07-26 21:40:56,90,active,1,Chicago,West Loop
+654,161 E Chicago Ave. - Olympia Centre Self Park Garage,2013-11-27 21:20:18,55,active,1,Chicago,Magnificent Mile
+6657,811 N Larrabee St. (600 Park) - Garage,2015-10-08 20:57:54,80,active,1,Chicago,Near North
+4732,2222 S Indiana Ave - Lot,2019-01-04 15:58:35,30,active,1,Chicago,Near South Side
+1577,1850 N Clark St. - Hemingway House - VALET Garage,2017-07-07 21:02:57,15,active,1,Chicago,Lincoln Park
+2332,1200 N Ashland Ave. - lot,2014-09-19 20:53:47,3,active,1,Chicago,Wicker Park
+4752,1332 W Irving Park Road - FACC Lot,2018-03-28 18:40:31,21,active,1,Chicago,Southport Corridor
+3591,3722 N Fremont St. - Spot #P3,2017-07-11 16:27:38,1,active,1,Chicago,Wrigleyville
+1893,25 E Superior St. - The Fordham Garage,2015-01-27 22:08:28,100,active,1,Chicago,Magnificent Mile
+3844,2817 N Orchard St. - Personal Spot #10,2018-07-30 22:13:53,1,active,1,Chicago,Lakeview - Chicago
+4512,150 N Dearborn St. - Valet,2014-09-22 16:47:35,0,active,1,Chicago,Loop NW
+397,516 N Rush St. - The Shops at North Bridge Garage,2015-11-03 17:46:49,140,active,1,Chicago,Magnificent Mile
+5324,1415 N Dearborn St. - Valet Garage,2019-10-07 14:35:46,6,active,1,Chicago,Gold Coast
+1996,710 S Wabash Ave. - Seventh Street Garage,2014-06-16 20:32:29,60,inactive,1,Chicago,South Loop
+3226,100 W Monroe St. - Hyatt the Loop - Valet,2016-08-11 19:12:42,7,active,1,Chicago,Loop SW
+3704,117 N Wells St. (120 N LaSalle St.) - Valet-Assist Garage,2019-04-30 20:18:10,100,active,1,Chicago,Loop NW
+4654,2927 N. Halsted St. - Spot #P4,2019-06-21 16:18:10,1,active,1,Chicago,Lakeview - Chicago
+1858,SpringHill Suites by Marriott - Covered Self Park,2020-04-02 17:01:18,2,active,1,Chicago,ORD
+5184,Millennium Lakeside Garage,2016-09-16 21:53:15,165,active,1,Chicago,Loop NE
+1218,601 S Dearborn St. - Valet Assist Lot,2014-05-26 22:31:49,5,active,1,Chicago,Loop SW
+3733,734 N Clark St. - Lot,2014-02-12 20:38:16,10,active,1,Chicago,River North
+2284,1140 S Wabash Ave. - Garage,2018-05-21 15:24:40,40,active,1,Chicago,South Loop
+5976,1540 N Western Ave. - Lot,2018-11-13 20:34:56,2,active,1,Chicago,Humboldt Park
+892,5210 S Harper Ave. - Harper Court Lot,2016-03-22 15:39:02,5,active,1,Chicago,Hyde Park - Chicago
+5580,RideShare Parking - Uncovered Self Park,2020-01-02 19:43:05,120,active,1,Chicago,ORD
+455,750 N Rush St. - The Chicagoan Garage,2016-03-23 16:39:37,55,active,1,Chicago,Magnificent Mile
+134,OHare Blue Sky Parking - Indoor Valet,2015-11-03 16:36:38,200,active,1,Chicago,ORD
+1874,111 W Kinzie St. - Sterling Garage,2015-07-29 17:51:19,330,active,1,Chicago,River North
+528,10 S Wabash Ave. - Silversmith Hotel Valet,2013-12-02 17:20:57,20,inactive,1,Chicago,Loop SE
+1590,2616 N Kimball Ave. - Personal Spot,2019-06-14 14:34:23,3,active,1,Chicago,Logan Square
+4980,215 S Wabash Ave. (231 S Wabash Ave.) - Valet-Assist Lot,2019-07-03 16:17:11,18,active,1,Chicago,Loop SE
+5616,414 E Grand Ave. - Moment Residential Building,2016-12-20 20:59:12,10,active,1,Chicago,Streeterville
+5139,3746 N. Clifton Ave. - Personal Spot (Middle Garage),2018-10-02 22:05:59,1,active,1,Chicago,Wrigleyville
+3432,122 W Monroe - Kimpton Gray Hotel - Valet,2018-12-31 16:07:15,8,active,1,Chicago,Loop SW
+315,3200 N Lake Shore Dr. - Harbor House Valet-Assist Garage,2018-05-16 20:25:26,8,active,1,Chicago,Lakeview - Chicago
+5601,1832 S Lake Shore Dr. - 18th Street Lot,2018-07-13 15:56:02,150,active,1,Chicago,South Loop
+6176,Park & Ride Lot - Uncovered Self Park,2017-12-07 16:54:16,122,active,1,Chicago,ORD
+3411,320 N Dearborn St. - Valet,2012-05-09 23:09:56,10,active,1,Chicago,River North
+1789,3240 N Lakewood Ave. - Personal Spot,2016-03-22 17:16:25,2,active,1,Chicago,Southport Corridor
+89,430 N Rush St. - Lot,2015-01-22 20:13:39,85,active,1,Chicago,Magnificent Mile
+4430,2909 N Sheridan Rd. - Valet Garage,2018-02-27 22:55:18,15,active,1,Chicago,Lakeview - Chicago
+4008,875 N Michigan Ave. - Garage,2015-03-25 16:24:55,200,active,1,Chicago,Magnificent Mile
+267,846 W Newport Ave. - Personal Spot - Spot #3,2016-10-07 18:59:01,1,active,1,Chicago,Wrigleyville
+5603,1087 S Clinton St. - The Maxwell Garage,2015-12-23 20:39:38,280,active,1,Chicago,University Village
+297,814 W Newport Ave. - Personal Spot - Spot #1,2017-06-26 19:15:08,1,active,1,Chicago,Wrigleyville
+6264,33 W Ontario St. - Millennium Centre - Garage,2020-11-30 17:50:23,70,active,1,Chicago,River North
+2255,810 W Kinzie St. - Lot,2013-05-01 22:35:04,30,active,1,Chicago,West Town
+2101,509 N Peshtigo Ct. - (500 N Lake Shore Dr. Building Garage),2013-03-08 17:41:24,70,active,1,Chicago,Streeterville
+2947,2515 N Clark St. - Lurie Childrens Hospital - Garage,2017-09-01 20:30:36,50,active,1,Chicago,Lincoln Park
+785,224 W Ohio St. - Valet-Assist Lot,2017-02-07 17:12:08,8,active,1,Chicago,River North
+5069,1631 W Warren Blvd. - Personal Spot,2018-08-10 19:39:33,1,active,1,Chicago,United Center
+2776,229 S Desplaines St. (625 W Adams Building) - Garage,2018-04-02 22:41:25,130,active,1,Chicago,West Loop
+5070,245 E Ohio St. - Grand Ohio Lot,2018-10-30 14:51:55,50,active,1,Chicago,Magnificent Mile
+240,300 W Wendell St. - Under EL,2017-03-02 22:48:29,12,active,1,Chicago,Near North
+762,1440 N Lake Shore Dr. - Valet Garage,2016-05-23 19:29:09,10,active,1,Chicago,Gold Coast
+5792,1624 W Division St. - Lot,2018-02-16 18:51:28,8,active,1,Chicago,Wicker Park
+2597,711 S Plymouth Ct. - Garage,2014-05-26 22:48:13,80,active,1,Chicago,South Loop
+3260,708 W Wayman St. - Lot,2015-09-04 18:18:29,40,active,1,Chicago,West Loop
+2580,3408 N Marshfield Ave. - Under EL,2012-02-02 14:53:42,8,active,1,Chicago,Lakeview - Chicago
+3539,10 S Wacker Dr. - Valet-Assist Garage,2020-01-16 20:55:47,100,active,1,Chicago,Loop SW
+194,1845 N Clybourn Ave. - Clybourn Galleria Garage,2018-04-03 19:40:10,30,active,1,Chicago,Lincoln Park
+3716,750 N Dearborn St. - Asbury Plaza - Garage,2016-10-26 18:26:24,45,active,1,Chicago,River North
+1452,43 E North Blvd. (1550 N Lake Shore Drive) - Valet Garage,2019-02-01 16:08:40,20,active,1,Chicago,Gold Coast
+384,59th & Cicero - Orange Line Park & Ride,2012-05-26 20:50:03,4,active,1,Chicago,MDW
+5245,614 N Wells St. - Lot,2018-02-22 20:57:26,15,active,1,Chicago,River North
+4515,3601 N Southport Ave. - Personal Spot - #7,2018-02-20 16:31:52,1,active,1,Chicago,Southport Corridor
+1732,1560 N Sandburg Terrace - James Kilmer Valet Garage,2017-07-17 21:25:48,60,active,1,Chicago,Old Town - Chicago
+4417,222 E Chestnut St. - Valet Garage,2017-10-23 21:21:01,20,active,1,Chicago,Magnificent Mile
+5848,405 W Chicago Ave. - Lot,2011-12-08 18:44:14,10,active,1,Chicago,River North
+5504,200 E Chestnut St. - Valet (Overnight Rate),2019-03-06 22:27:46,25,active,1,Chicago,Magnificent Mile
+3661,370 S Financial Pl. - Valet/Garage,2013-04-29 15:04:59,40,active,1,Chicago,Loop SW
+4337,1119 W Addison St. - Spot #5,2019-09-05 16:50:28,1,active,1,Chicago,Wrigleyville
+3208,14 E Cedar St. - Lot,2018-01-10 19:21:58,12,active,1,Chicago,Gold Coast
+2710,1341 W Newport Ave. - Personal Spot - West Spot,2016-05-09 19:27:50,1,active,1,Chicago,Southport Corridor
+3581,747 N Wabash Ave - The Bernardin - Garage,2018-11-28 21:45:48,45,active,1,Chicago,Magnificent Mile
+468,356 W Belden Ave. - Garage and Lot,2013-11-12 16:24:26,20,active,1,Chicago,Lincoln Park
+4954,355 E Ohio St. - Garage,2015-05-29 18:36:12,65,active,1,Chicago,Streeterville
+1686,1550 N Sedgwick St. - Under EL,2012-02-02 15:02:31,15,active,1,Chicago,Old Town - Chicago
+3846,3138 N Southport Ave. - Lot - (South Spot),2018-07-03 16:20:11,1,active,1,Chicago,Lakeview - Chicago
+4576,1523 N Fremont St. - Lot,2016-07-19 23:54:27,30,active,1,Chicago,SoNo
+629,2157 N Damen Ave. - Lot,2016-03-18 18:18:06,2,active,1,Chicago,Bucktown
+3747,868 N Franklin St. - Lot,2011-08-22 20:03:45,15,active,1,Chicago,Near North
+4154,151 E 14th St. (1411 S Michigan Ave.) - Garage,2018-10-19 15:21:42,40,active,1,Chicago,South Loop
+1927,Michigan Plaza - Garage,2019-01-31 16:59:56,90,active,1,Chicago,Loop NE
+3157,1210 W Arthur Ave. - Garage,2016-07-05 20:07:33,25,active,1,Chicago,Rogers Park
+3340,755 W North Ave. - Lincoln Park Center Garage,2018-12-27 22:20:16,75,active,1,Chicago,SoNo
+238,524 S Wabash Ave. - Loop Auto Parks Lot,2014-06-17 16:16:42,30,active,1,Chicago,Loop SE
+1287,Millennium Park Plaza - Valet Garage (LOWER Beaubien Ct.),2017-01-16 20:00:09,50,active,1,Chicago,Loop NE
+2025,60 E 16th St. (1556 S Michigan Ave. - Lot),2018-04-06 22:01:15,5,active,1,Chicago,South Loop
+1935,2101 S Michigan Ave. - Garage,2014-11-07 21:16:06,45,active,1,Chicago,Near South Side
+2083,3711 N Fremont St. - Spot #P4,2017-07-11 15:50:22,1,active,1,Chicago,Wrigleyville
+1404,24 E 18th St. - Under EL,2015-03-31 16:03:24,9,active,1,Chicago,South Loop
+458,217 W Washington St. - Washington-Wells Garage,2015-01-06 6:00:09,100,active,1,Chicago,Loop NW
+4753,864 N Orleans St. - Lot,2019-09-23 17:55:06,17,active,1,Chicago,Near North
+701,437 N Orleans St. - Mart Parc Orleans Garage,2015-01-06 0:07:12,300,active,1,Chicago,River North
+1411,1 E Wacker Dr. - Valet,2013-09-27 21:13:04,20,active,1,Chicago,Loop NE
+117,2138 S Indiana Ave. - Garage,2013-12-06 21:50:32,25,active,1,Chicago,Near South Side
+5035,3730-40 N Lake Shore Dr. - Rooftop Lot,2012-06-25 16:16:26,15,active,1,Chicago,Wrigleyville
+2236,2 E 8th St. (777 S State St.) - Garage,2018-08-31 14:38:46,65,active,1,Chicago,South Loop
+2379,221 N Stetson Ave. - Park Millennium Garage,2018-06-04 18:35:13,189,active,1,Chicago,Loop NE
+4241,3474 N Clark St. - Lot (Right),2018-06-18 16:04:00,1,active,1,Chicago,Wrigleyville
+360,Holiday Inn & Suites - Uncovered Self Park,2018-04-24 18:38:24,40,active,1,Chicago,ORD
+2792,32 S Jefferson St. - Presidential Towers Garage,2018-05-08 15:57:11,200,active,1,Chicago,West Loop
+4854,163 N Canal St. - Valet,2012-10-31 4:34:12,50,active,1,Chicago,West Loop
+3162,Parking & Shuttle - Uncovered Self Park,2019-04-25 19:23:15,100,active,1,Chicago,MDW
+2672,727 W Madison - Garage,2018-09-21 19:47:26,35,active,1,Chicago,West Loop
+2141,850 W Barry Ave. - Personal Spot,2018-01-30 16:21:42,1,active,1,Chicago,Lakeview - Chicago
+1992,Schiller St. SOUTH - Under El,2015-09-24 20:53:29,15,active,1,Chicago,Old Town - Chicago
+4663,1040 W Hollywood Ave. - Lot,2018-12-20 21:49:48,3,active,1,Chicago,Edgewater
+2158,111 S Clinton St. - (525 W Monroe Garage),2015-08-21 20:35:39,35,active,1,Chicago,West Loop
+3478,1221 N State Pkwy. (1 E Scott St.) - One East Scott Condominium Garage,2018-10-12 15:33:10,40,active,1,Chicago,Gold Coast
+3635,762 W Jackson Blvd. - Lot,2014-08-26 0:04:21,20,active,1,Chicago,West Loop
+1039,946 W Oakdale Ave. - Under EL,2017-03-02 22:41:59,10,active,1,Chicago,Lakeview - Chicago
+732,1019 W Newport Ave. - Personal Spot (right),2017-06-28 18:58:07,1,active,1,Chicago,Lakeview - Chicago
+5630,737 W Washington Blvd. - Skybridge Garage,2016-01-26 20:41:37,95,active,1,Chicago,West Loop
+262,181 N Dearborn St. - Theater District Garage,2015-01-06 4:09:40,400,active,1,Chicago,Loop NW
+915,1709 W Madison St. - Lot,2016-02-22 16:44:03,40,active,1,Chicago,United Center
+914,590 W Madison - Lot (540 W Madison Building),2013-09-10 19:17:30,25,active,1,Chicago,West Loop
+2213,3450 N Racine Ave. - Personal Spot,2017-06-13 21:32:21,2,active,1,Chicago,Wrigleyville
+2809,210 N Wells St. - Garage,2012-05-15 23:58:55,175,active,1,Chicago,Loop NW
+3413,1 W Washington St. - Staypineapple Valet Stand,2016-05-20 14:44:14,30,inactive,1,Chicago,Loop NW
+2788,183 W Monroe St. - Valet/Self-Park Garage,2019-02-05 17:34:03,130,active,1,Chicago,Loop SW
+5534,1014 N Clark St. (Gold Coast Galleria Residences) - Garage,2018-01-10 15:44:18,50,active,1,Chicago,Near North
+4939,777 N Michigan Ave. - Valet Garage,2014-10-21 20:38:30,20,active,1,Chicago,Magnificent Mile
+2609,6401-15 N. Sheridan Rd - Spot #24,2020-03-10 11:47:05,1,active,1,Chicago,Uptown - Chicago
+1921,315 S Jefferson St. - Lot,2012-12-10 17:12:48,13,active,1,Chicago,West Loop
+1954,1603 Orrington Ave. - Garage,2020-03-11 18:26:54,30,active,1,Chicago,Evanston
+542,205 W Lower Wacker Dr. - Valet,2014-01-13 16:29:01,25,inactive,1,Chicago,Loop NW
+2721,2613 N Halsted St. - Lot,2018-08-14 18:57:17,1,active,1,Chicago,Lincoln Park
+4886,153 E Erie St. -  TGI Fridays Valet,2016-06-12 1:21:20,35,inactive,1,Chicago,Magnificent Mile
+593,River City Garage,2016-10-05 15:35:24,50,inactive,1,Chicago,South Loop
+4364,1816 N Clark St - Hotel Lincoln Valet,2018-12-06 19:20:38,6,inactive,1,Chicago,Lincoln Park
+1170,2019 W North Ave. - Under El,2015-10-08 19:49:06,4,active,1,Chicago,Wicker Park
+5266,224 N Clark St. - (111 W Wacker Building) - One Eleven Garage,2018-02-26 22:01:42,200,active,1,Chicago,Loop NW
+536,1113 W Monroe St. - Lot,2019-07-29 16:49:14,30,active,1,Chicago,West Loop
+4534,10 E 13th St. (1255 S State St) - Vision Garage,2019-02-05 14:36:43,49,active,1,Chicago,South Loop
+3366,1445 N Orleans St. - Under El,2015-09-24 20:00:37,4,active,1,Chicago,Old Town - Chicago
+3905,329 S Franklin St. - Traders Garage,2015-01-06 1:37:09,150,active,1,Chicago,Loop SW
+1520,1040 W Hollywood -  Compact Spot #6,2019-03-19 15:36:34,1,active,1,Chicago,Edgewater
+2521,225 E North Water St. - Lot,2016-07-22 17:01:46,30,active,1,Chicago,Magnificent Mile
+1986,20 E Randolph St. - Wabash-Randolph Garage,2015-01-06 2:12:25,500,active,1,Chicago,Loop NE
+703,2500 N Clark St. - Personal Spot - Spots #4 #5,2016-04-04 22:36:34,2,active,1,Chicago,Lincoln Park
+376,1548 N Larrabee St. - Under EL,2016-06-15 21:06:03,18,active,1,Chicago,Old Town - Chicago
+1106,474 E Huron St. (680 N Lake Shore Dr.) - Garage,2017-02-02 18:06:32,110,active,1,Chicago,Streeterville
+3729,25 E 16th St - Under EL,2012-06-25 15:55:07,6,active,1,Chicago,South Loop
+1343,3826 N Fremont St. - Personal Spot #7,2017-08-01 19:54:13,1,active,1,Chicago,Wrigleyville
+4051,121 W Haddock Pl. - Valet Garage,2016-10-17 16:39:29,45,active,1,Chicago,Loop NW
+5532,525 S Wabash Ave. - Lot,2014-08-25 22:22:44,20,active,1,Chicago,Loop SE
+4370,834 W Roscoe St. - Personal Spot #2 #3,2017-09-27 22:19:49,2,active,1,Chicago,Lakeview - Chicago
+4316,1130 S Michigan Ave. - Valet Garage,2015-05-29 18:27:45,30,active,1,Chicago,South Loop
+919,WallyPark ORD - Uncovered Valet,2015-10-27 3:36:22,500,active,1,Chicago,ORD
+624,8 E 9th St. - (Astoria Tower) Garage,2015-12-10 18:56:55,25,active,1,Chicago,South Loop
+5660,459 N Green St. - Personal Spot,2019-10-23 14:07:23,2,active,1,Chicago,West Town
+1765,3472 N Clark St. - Lot,2018-02-20 18:04:00,2,active,1,Chicago,Wrigleyville
+651,3823 N Lakewood Ave. - Personal Spot #5,2018-04-06 22:32:01,0,active,1,Chicago,Wrigleyville
+5763,Loews Chicago OHare - Covered Self Park,2020-02-27 20:53:23,25,active,1,Chicago,ORD
+3078,1005 N State St. (2 E Oak St.) - Valet Garage,2020-06-30 19:46:57,10,active,1,Chicago,Gold Coast
+3680,11 E 9th St. (1001 S State St.) - Garage,2016-12-20 21:12:46,60,active,1,Chicago,South Loop
+3664,11 W Elm St. - Valet,2013-05-02 7:01:43,30,active,1,Chicago,Gold Coast
+5714,435 E Illinois - Pinstripes Valet,2019-11-22 15:55:00,20,active,1,Chicago,Streeterville
+573,322 W Van Buren St. - Lot,2012-03-08 23:41:15,35,active,1,Chicago,Loop SW
+3826,1101 S State St. - Garage,2015-05-28 15:20:19,35,active,1,Chicago,South Loop
+2167,3835 N Kenmore Ave. - Personal Spot,2018-05-10 15:43:56,2,active,1,Chicago,Wrigleyville
+3637,North Bridge (10 E Grand Ave.) - Garage,2015-02-19 21:30:16,350,active,1,Chicago,Magnificent Mile
+1272,1717 W Cornelia Ave. - Lot,2016-10-05 21:38:04,20,active,1,Chicago,Lakeview - Chicago
+4988,127 N Dearborn St. - Valet/Self Park Garage,2013-11-26 22:04:02,70,active,1,Chicago,Loop NW
+5472,1524 N Wells St. - Lot,2020-09-17 16:56:21,20,active,1,Chicago,Old Town - Chicago
+5423,Walton On The Park - Garage,2014-05-01 19:45:30,15,active,1,Chicago,Near North
+1015,2203 N Sheffield Ave. - Under EL,2017-03-22 20:41:24,9,active,1,Chicago,Lincoln Park
+1766,1212 N Lake Shore Dr. - Valet Garage,2013-05-16 14:39:06,30,active,1,Chicago,Gold Coast
+1938,1552 N Wells St. - Valet,2015-07-16 4:44:47,6,active,1,Chicago,Old Town - Chicago
+1123,1538 Hinman Ave. (500 Davis St.) - Garage,2016-12-06 18:18:06,15,active,1,Chicago,Evanston
+1907,2340 N Commonwealth Ave. - Spot #3,2018-07-31 20:33:09,1,active,1,Chicago,Lincoln Park
+5119,801 S Financial Pl. - Alta Roosevelt Garage,2018-05-31 16:09:28,40,active,1,Chicago,South Loop
+4198,300 N LaSalle St. - Chicago Cut Steakhouse Valet,2020-07-23 3:55:53,4,active,1,Chicago,River North
+3796,801 S Canal St. - The Northern Trust Building - Garage,2020-07-16 16:16:33,50,active,1,Chicago,University Village
+5396,441 E Erie St. - The Axis Garage,2012-07-23 21:05:29,20,active,1,Chicago,Streeterville
+5503,315 N Peoria St. (832 W Fulton Market - Garage),2016-08-08 16:44:42,12,active,1,Chicago,West Loop
+4701,Grant Park North Garage,2016-09-15 16:24:43,280,active,1,Chicago,Loop NE
+3450,Routes Airport Parking - Uncovered Valet,2016-08-16 18:03:14,100,active,1,Chicago,ORD
+1934,111 E Wacker Dr. - Garage,2015-10-28 21:54:18,150,active,1,Chicago,Loop NE
+4103,1323 W. Morse Ave. - Garage,2019-05-30 15:11:25,35,active,1,Chicago,Rogers Park
+566,PreFlight OHare - Rooftop Self Park,2015-09-30 18:54:30,20,active,1,Chicago,ORD
+2356,Hilton Garden Inn ORD - Uncovered Self Park,2019-07-01 15:00:27,10,active,1,Chicago,ORD
+2163,Airport Parking Express - Uncovered Self Park,2015-08-07 2:32:22,26,active,1,Chicago,MDW
+1163,1724 W Washington Blvd. (Economy Parking) - Lot,2016-11-09 21:59:19,75,active,1,Chicago,United Center
+5679,3740 N Halsted St. - Halsted Flats Garage,2015-01-27 21:19:37,60,active,1,Chicago,Wrigleyville
+3603,33 W Monroe St. - Garage,2012-09-20 15:45:23,45,active,1,Chicago,Loop SW
+2187,55 E. Jackson Blvd. - Garage,2020-07-31 19:51:50,40,active,1,Chicago,Loop NE
+5649,61 E 21st St. - Garage,2018-04-25 20:56:23,6,active,1,Chicago,Near South Side
+1534,2557 N Lincoln Ave. - Under EL,2014-10-16 1:53:46,5,active,1,Chicago,Lincoln Park
+5655,305 W Ontario St. - Lot,2018-05-15 20:35:14,35,active,1,Chicago,River North
+197,240 E Illinois St. - Cityfront Center Garage,2016-06-30 17:36:55,50,active,1,Chicago,Magnificent Mile
+3925,Rosemont Blue Line - Uncovered Self Park,2018-11-09 21:15:53,100,active,1,Chicago,ORD
+2274,198 E Delaware Pl. - Valet,2013-09-27 21:01:08,20,active,1,Chicago,Magnificent Mile
+6083,318 S Federal St. - South Loop Garage,2015-01-05 21:59:02,400,active,1,Chicago,Loop SW
+4258,600 E Grand Ave. - Navy Pier West Garage,2018-10-04 20:36:44,100,active,1,Chicago,Navy Pier
+3369,Crowne Plaza OHare - Uncovered Self Park,2016-01-07 20:21:54,260,active,1,Chicago,ORD
+3434,718 W Monroe St. - Lot,2014-05-29 19:01:59,60,active,1,Chicago,West Loop
+463,505 N Orleans St. - Garage,2014-02-26 19:03:06,40,active,1,Chicago,River North
+66,326 S Wells St. - Traders Garage,2016-09-01 14:17:59,250,active,1,Chicago,Loop SW
+3903,Cumberland Blue Line - Covered Self Park,2012-05-26 20:30:56,50,active,1,Chicago,ORD
+1862,1620 N Halsted St. - Under EL,2012-02-02 13:28:56,11,active,1,Chicago,Lincoln Park
+2617,261 E Chestnut St. (850 N Lakeshore Dr.) - Garage,2019-06-18 21:47:45,10,active,1,Chicago,Streeterville
+4302,411 E Grand Ave. (456 E Illinois St.) - Garage,2017-10-13 21:26:32,100,active,1,Chicago,Streeterville
+1283,2504-16 N Willetts Ct - #P12,2019-06-07 19:15:37,1,active,1,Chicago,Logan Square
+2880,1001 N Crosby St. - Park Community Church Lot,2017-10-09 16:12:52,36,active,1,Chicago,Near North
+3794,71 E Wacker Dr. - Valet,2012-05-09 22:57:11,20,active,1,Chicago,Loop NE
+939,1313 N. Moorman St - West Lot,2019-02-11 15:35:40,0,active,1,Chicago,Wicker Park
+1204,260 E Chestnut St.,2013-03-05 23:51:48,45,active,1,Chicago,Streeterville
+1635,1730 N Stockton Dr. - Chicago History Museum Lot,2015-04-29 2:13:04,15,active,1,Chicago,Lincoln Park
+2626,401 N Wabash Ave. - Trump Tower Garage,2015-04-01 17:52:00,200,active,1,Chicago,Magnificent Mile
+3378,944 W Belmont Ave. - Under EL,2012-03-22 5:03:17,30,active,1,Chicago,Lakeview - Chicago
+3241,25 E 18th St. - Under EL,2013-07-22 12:35:29,4,active,1,Chicago,South Loop
+3687,603 W Randolph St. - Lot,2018-07-20 15:54:22,2,active,1,Chicago,West Loop
+4963,1467 N Dayton St. - Blackhawk & Halsted Garage,2015-05-07 21:40:03,100,active,1,Chicago,SoNo
+2661,365 W Huron St. - Lot,2018-08-06 15:18:38,15,active,1,Chicago,River North
+3107,9 E Balbo Ave - Lot,2019-12-09 18:44:22,15,active,1,Chicago,South Loop
+3200,430 S Clark St. - Self Park/Valet Assist,2016-03-02 23:55:24,10,active,1,Chicago,Loop SW
+3146,3633 N Sheffield Ave. - Lakeview Baseball Club,2015-09-25 16:38:49,0,active,1,Chicago,Wrigleyville
+1663,50 E Ohio St. - ROW Garage,2015-01-06 0:37:12,400,active,1,Chicago,Magnificent Mile
+2537,E. 8th St. (801 S. Wabash Ave.) - Self Park Garage,2017-06-21 18:28:35,75,active,1,Chicago,South Loop
+1826,310 W Huron St - Lot,2019-06-03 16:22:59,40,active,1,Chicago,River North
+1439,722 S Wabash Ave. - Lot,2020-01-06 17:47:23,15,active,1,Chicago,South Loop
+2748,806 N Rush St. - Valet Garage,2017-06-23 18:28:07,10,active,1,Chicago,Magnificent Mile
+3215,2504-16 N Willetts Ct. - P9,2017-04-21 17:22:05,1,active,1,Chicago,Logan Square
+4679,315 W Monroe St (111 S Wacker Dr) - Garage,2019-09-05 16:01:59,230,active,1,Chicago,Loop SW
+1465,3126 N Sheffield - Spot #3 - Personal Spot,2015-10-12 16:09:35,1,active,1,Chicago,Lakeview - Chicago
+1405,720 N State St. - One Superior Place Garage,2014-10-02 16:46:27,100,active,1,Chicago,River North
+4415,Addison and Clark - Garage,2018-08-03 20:17:32,50,active,1,Chicago,Wrigleyville
+2451,1202 W Madison St. - Lot,2018-07-17 17:12:32,0,active,1,Chicago,West Loop
+2770,320 W Locust St. - Under EL,2012-01-21 21:27:22,6,active,1,Chicago,Near North
+4284,4650 N Western Ave. - Under EL,2012-05-22 19:28:12,18,active,1,Chicago,Lincoln Square - Chicago
+683,200 E Chestnut St. - Valet,2013-02-15 22:22:46,23,active,1,Chicago,Magnificent Mile
+2556,165 N LOWER Field - LOWER LEVEL Garage,2017-01-25 17:45:18,40,active,1,Chicago,Loop NE
+2113,527 W Webster Ave. - Garage,2014-02-17 17:39:51,60,active,1,Chicago,Lincoln Park
+74,812 W Willow St. (1802 N Halsted St.) -Spots ABCDE,2013-12-18 15:28:15,5,active,1,Chicago,Lincoln Park
+5191,1100 W Addison St. (3630 N Clark St.) - Hotel Zachary Garage,2018-05-17 20:41:21,25,active,1,Chicago,Wrigleyville
+800,177 N Wells St. - Lake Wells Garage,2015-01-06 1:16:59,150,active,1,Chicago,Loop NW
+5325,1915 South Peoria Ave. (1930 South Jourdan Court) - Lot,2018-12-20 16:13:14,58,active,1,Chicago,Pilsen
+156,Seminary Lot - Under EL,2017-05-16 18:20:12,3,active,1,Chicago,Wrigleyville
+4542,3426 N Southport Ave. - Spot #3,2019-01-10 17:00:58,1,active,1,Chicago,Southport Corridor
+1040,3130 N Sheffield Ave. - Garage,2014-01-21 22:27:23,20,active,1,Chicago,Lakeview - Chicago
+2016,940 W Wellington Ave. - Under EL,2017-04-10 15:43:40,4,active,1,Chicago,Lakeview - Chicago
+4892,Grant Park South Garage,2016-09-15 16:17:10,300,active,1,Chicago,Loop SE
+1296,900-910 N Lake Shore Dr. (250 E Delaware Pl.) - Valet Garage,2019-03-29 15:05:33,30,active,1,Chicago,Streeterville
+2437,650 W Fulton Market - Fulton/Desplaines - Garage,2017-07-17 22:06:33,45,active,1,Chicago,West Loop
+5860,4220 N Sheridan Rd. - Saint Mary of the Lake Lot,2019-08-26 21:19:28,20,active,1,Chicago,Uptown - Chicago
+1805,3224 N Halsted St. - Garage,2016-07-26 18:28:12,25,active,1,Chicago,Lakeview - Chicago
+3650,3701 N Kenmore Ave. - Personal Spot - Cubs Space,2016-04-15 14:19:55,1,active,1,Chicago,Wrigleyville
+16,111 E Chestnut St. - Mag Mile Self Park Garage,2014-04-18 15:57:14,40,active,1,Chicago,Magnificent Mile
+2229,3733 N Sheffield Ave. - Personal Spot #6,2018-04-02 21:58:44,1,active,1,Chicago,Wrigleyville
+255,3660 N Lake Shore Drive - The New York Garage,2015-12-29 16:49:55,27,active,1,Chicago,Wrigleyville
+596,519 S Clinton St. - Lot,2013-05-22 15:45:05,10,active,1,Chicago,West Loop
+32,15 E Chestnut St. (845 N State St.) - State & Chestnut Garage,2015-12-29 17:22:07,30,active,1,Chicago,Magnificent Mile
+581,4122 N Keystone Ave. - Personal Spot,2017-06-05 21:55:38,1,active,1,Chicago,Irving Park
+2378,3260 N Dayton St. - Lot,2018-04-04 14:42:20,12,active,1,Chicago,Lakeview - Chicago
+6012,614 N St. Clair St. - Ontario & St. Clair Garage,2015-01-06 2:56:35,50,active,1,Chicago,Magnificent Mile
+2851,1250 N Dearborn St. - Valet,2012-07-10 20:47:54,30,active,1,Chicago,Gold Coast
+1157,110 W Lake St. - 203 N LaSalle Building Garage,2015-01-06 3:14:47,125,active,1,Chicago,Loop NW
+4879,1212 N Ashland Ave. - Spaces #1-6,2015-11-15 17:25:28,2,active,1,Chicago,Wicker Park
+2863,40 E 18th St. (1758 S Wabash Ave.) - Lot,2018-02-09 21:33:23,38,active,1,Chicago,South Loop
+3987,835 S Wabash Ave. - Lot,2016-04-21 22:06:18,22,active,1,Chicago,South Loop
+2190,323 E Upper Wacker Dr. - Valet Garage,2016-08-10 14:51:32,10,active,1,Chicago,Loop NE
+829,500 W Monroe St. - Garage,2016-04-04 21:04:19,230,active,1,Chicago,West Loop
+3170,401 N LOWER Michigan Ave. - Valet,2014-05-14 15:22:44,30,active,1,Chicago,Magnificent Mile
+115,70 W Madison St. Building - Valet Garage,2015-01-14 21:25:41,37,active,1,Chicago,Loop NW
+3497,609 S State St. - Lot,2017-10-24 22:33:49,75,active,1,Chicago,Loop SE
+1628,Spoke Apartments Garage - 728 N Morgan St.,2018-02-01 22:01:35,45,active,1,Chicago,West Town
+535,2316 N Lincoln Ave. - Lincoln Commons Garage,2017-04-04 18:48:08,235,active,1,Chicago,Lincoln Park
+2754,681 N LaSalle St. - Garage,2014-02-04 23:55:18,12,active,1,Chicago,River North
+3273,1330 E 53rd St. - Vue53 Garage,2016-09-09 15:44:04,20,active,1,Chicago,Hyde Park - Chicago
+1151,227 W Monroe St. - Garage,2015-08-03 17:04:33,70,active,1,Chicago,Loop SW
+4426,1122 W Newport Ave. - Lot - P6,2018-06-15 14:28:50,1,active,1,Chicago,Lakeview - Chicago
+142,835 W Addison St. - Lot,2016-10-15 18:02:48,10,active,1,Chicago,Wrigleyville
+509,284 E North Water St. - NBC Tower Garage,2016-06-01 21:25:03,20,active,1,Chicago,Magnificent Mile
+2956,951 W Cornelia Ave. - Under EL,2015-09-25 21:02:50,10,active,1,Chicago,Wrigleyville
+3265,10 E Ontario St. - Garage,2019-01-30 18:37:48,55,active,1,Chicago,Magnificent Mile
+202,201 W Madison St. - Poetry Garage,2013-11-26 21:56:36,150,active,1,Chicago,Loop SW
+743,3145 N Sheffield Ave.  - Under EL,2012-08-08 17:46:49,10,active,1,Chicago,Lakeview - Chicago
+1375,1333 N Wicker Park Ave. - Personal Spot,2017-11-16 22:39:10,1,active,1,Chicago,Wicker Park
+826,55 E Monroe St. - Garage,2014-03-05 15:37:27,225,active,1,Chicago,Loop SE
+4047,1052 W Montrose Ave. - Wilson Yard Lot,2018-12-18 16:34:17,15,active,1,Chicago,Uptown - Chicago
+5993,159 N Carpenter St. - Behind Variety Meat,2019-06-28 19:00:30,6,active,1,Chicago,West Loop
+5584,425 S Financial Pl - 425 At Gateway Plaza - Garage,2018-12-02 20:44:09,30,active,1,Chicago,Loop SW
+279,1512 W Melrose St. - Personal Spot,2018-09-11 16:44:01,1,active,1,Chicago,Lakeview - Chicago
+331,Mart Center Lot,2015-06-05 16:42:04,40,active,1,Chicago,River North
+524,Ogden Plaza Garage - 300 E North Water St.,2013-11-26 22:20:25,60,active,1,Chicago,Streeterville
+496,5701 N Broadway - Personal Spot,2017-05-11 17:21:12,1,active,1,Chicago,Edgewater
+2147,603 W Monroe St. - Lot,2014-05-26 22:36:55,35,active,1,Chicago,West Loop
+3455,73 E Madison St. - Chicago Athletic Association Valet,2018-12-17 17:53:55,3,active,1,Chicago,Loop SE
+1425,319 W Randolph St. - Valet-Assist Lot,2017-05-11 21:27:35,25,active,1,Chicago,Loop NW
+2048,817 W Lake St. - BLVD Valet,2017-08-31 20:03:02,10,inactive,1,Chicago,West Loop
+1339,1220 S Jefferson St. (611 W Roosevelt Rd.) - Lot,2017-01-25 17:15:13,25,active,1,Chicago,University Village
+1447,2050 S Indiana Ave. - Long Grove House - Garage,2017-05-01 22:02:03,45,active,1,Chicago,Near South Side
+2560,3650 N Clark St. - Valet-Assist Lot,2018-04-16 19:52:22,0,active,1,Chicago,Wrigleyville
+1677,1011 W Carroll Ave. (1000 W Fulton Market - Garage),2016-05-27 20:14:56,20,inactive,1,Chicago,West Loop
+5804,355 E Ohio St. - Garage (Commuter Rate),2019-02-19 20:51:05,92,active,1,Chicago,Streeterville
+2733,347 W Chestnut St. - Garage,2016-09-09 18:51:46,20,active,1,Chicago,Near North
+1209,1111 W Addison St. - Lot,2018-05-10 17:29:08,15,active,1,Chicago,Wrigleyville
+1189,345 E Wacker Dr. - Garage,2017-09-08 21:46:05,45,active,1,Chicago,Loop NE
+436,353 N Desplaines St. - Echelon at K Station - Garage,2017-03-03 17:45:29,45,active,1,Chicago,West Loop
+3393,1705 S Michigan - Lot,2018-09-05 20:06:22,6,active,1,Chicago,South Loop
+2433,24 E 16th St. - Under EL,2013-11-18 17:58:34,9,active,1,Chicago,South Loop
+2110,2475 N. Milwaukee Ave. - Lot,2019-07-31 20:04:12,0,active,1,Chicago,West Town
+2875,2000 W Madison St. - Lot,2017-07-06 22:20:58,75,active,1,Chicago,United Center
+3346,640 W Washington Blvd. - Lot,2016-04-21 22:01:45,100,active,1,Chicago,West Loop
+4776,671 N Clark St. - Garage,2018-06-25 18:22:58,20,active,1,Chicago,River North
+1388,350 E Ohio St. - Garage,2016-11-10 20:44:04,80,active,1,Chicago,Streeterville
+3016,1225 N Wells St. - Old Town Chicago Apartments Garage,2019-01-03 15:09:59,100,active,1,Chicago,Old Town - Chicago
+8,181 N Clark St. - Government Center Garage,2015-01-06 5:05:52,150,active,1,Chicago,Loop NW
+4121,831 N Damen Ave. - Daily Parking - Personal Spot,2016-06-11 22:07:21,1,active,1,Chicago,West Town
+5562,400 E Randolph St. - Garage,2018-04-13 20:37:13,10,active,1,Chicago,Loop NE
+2082,3211 N Clark St. - Lot,2013-08-27 16:51:26,20,active,1,Chicago,Lakeview - Chicago
+432,1933 N Halsted St. - Garage,2015-03-05 22:22:57,18,active,1,Chicago,Lincoln Park
+642,303 E Wacker Dr. - LOWER LEVEL Garage,2014-02-17 18:20:24,100,active,1,Chicago,Loop NE
+911,320 S Franklin St. (311 S LOWER Wacker Dr.) - Garage,2018-01-22 18:49:15,15,active,1,Chicago,Loop SW
+224,838 S Wells St. - Lot,2015-11-30 22:25:59,30,active,1,Chicago,South Loop
+5531,980 N Michigan Ave - VALET ONLY - One Mag Mile Garage,2020-07-22 19:47:03,25,active,1,Chicago,Magnificent Mile
+902,200 N Columbus Dr. - Valet,2016-04-08 20:03:39,20,inactive,1,Chicago,Loop NE
+2317,361 W Chestnut St. - Lot,2018-05-29 16:35:19,20,active,1,Chicago,Near North
+736,175 N Harbor Dr. - North Harbor Tower Garage,2016-09-27 15:29:20,5,active,1,Chicago,Loop NE
+5723,One Spot Airport Valet - Uncovered Valet,2019-07-23 14:39:58,200,active,1,Chicago,ORD
+872,1043 W Irving Park Rd. - Personal Spot,2017-03-20 17:07:38,2,active,1,Chicago,Wrigleyville
+1545,3900 N Lake Shore Dr. - Valet Garage,2017-01-17 15:14:58,15,active,1,Chicago,Wrigleyville
+1114,1854 S Racine Ave. - Lot,2019-02-28 20:21:57,18,active,1,Chicago,Pilsen
+1390,400 N McClurg Ct. - Garage,2014-05-29 20:14:08,55,active,1,Chicago,Streeterville
+81,323 E Upper Wacker Dr. - Swissotel Garage,2017-03-10 22:48:25,10,active,1,Chicago,Loop NE
+5083,943 W Grace St. - Under EL,2017-03-02 23:07:29,2,active,1,Chicago,Wrigleyville
+5018,222 N LOWER LaSalle St. - Garage,2015-09-21 17:02:43,10,active,1,Chicago,Loop NW
+666,157 W Chicago Ave. - Valet Assist Lot,2013-10-22 20:46:50,65,active,1,Chicago,Near North
+3151,1455 W Irving Park Rd. - Personal Spot - Spot #C1,2016-08-12 22:44:12,1,active,1,Chicago,Southport Corridor
+5997,PreFlight OHare - Premium Covered Self Park,2015-09-10 18:40:19,20,active,1,Chicago,ORD
+252,401 N Wells St. - Mart Parc Wells Garage,2015-01-05 22:24:08,400,active,1,Chicago,River North
+5385,1301 W Madison St. - Garage,2018-03-14 21:31:20,30,active,1,Chicago,West Loop
+1227,607 W Lake St. - Garage,2013-01-22 17:44:22,40,active,1,Chicago,West Loop
+5430,Water Tower Place Garage,2015-04-17 0:34:56,20,active,1,Chicago,Magnificent Mile
+5080,51 W Hubbard - Hub 51 Valet,2015-09-08 19:02:23,15,inactive,1,Chicago,River North
+1651,2836 N Clark St. - Century Shopping - Garage,2018-04-05 21:15:32,40,active,1,Chicago,Lakeview - Chicago
+5825,174 E Walton Pl. - Drake Tower Valet Garage,2017-12-29 16:34:32,20,active,1,Chicago,Magnificent Mile
+2036,2860 W Medill Ave. - Under El,2016-05-06 21:24:17,15,active,1,Chicago,Logan Square
+1989,Hilton Chicago Garage - No Ins/Outs Allowed,2016-04-08 20:00:46,250,active,1,Chicago,South Loop
+2089,105 S Wood St - Lot,2018-09-17 14:39:45,50,active,1,Chicago,United Center
+529,Early Arrival Lot - 2033 W Madison St.,2013-10-03 22:00:47,30,active,1,Chicago,United Center
+3004,1538 E 54th St. - Lot,2017-01-12 19:48:06,10,active,1,Chicago,Hyde Park - Chicago
+5189,2009 W North Ave. - Dental Office Parking Lot,2018-05-14 14:42:16,4,active,1,Chicago,Wicker Park
+5915,765 W Adams St. - Arkadia Towers Garage,2020-03-05 17:22:41,150,active,1,Chicago,West Loop
+4098,720 S Wells St. - The Cooper Garage,2018-12-19 19:01:01,25,active,1,Chicago,South Loop
+5579,5017 N Winthrop Ave - Lot,2018-11-20 16:15:11,35,active,1,Chicago,Uptown - Chicago
+1943,371 N Peoria St. - Lot,2018-08-21 21:36:55,50,active,1,Chicago,West Loop
+2687,The Streeter Building - Garage,2018-02-01 22:24:53,75,active,1,Chicago,Streeterville
+387,673 N Franklin St. - Flair Tower Garage,2015-10-26 14:29:58,45,active,1,Chicago,River North
+4000,United Center Official Lots,2019-10-31 13:35:36,200,active,1,Chicago,United Center
+196,1316 S Michigan Ave. (Alley Entrance) - Self-Park/Valet Assist,2017-06-13 20:10:02,25,active,1,Chicago,South Loop
+3000,1 E 8th St. - In/Out Garage,2012-05-15 21:50:53,100,active,1,Chicago,South Loop
+722,2717 W Prindiville St. - Under EL,2017-08-11 22:09:40,3,active,1,Chicago,Logan Square
+4006,1121 W Patterson Ave. - Personal Spot,2016-07-15 22:21:08,3,active,1,Chicago,Wrigleyville
+1078,1555 N Dearborn Pkwy - Valet Garage,2019-02-06 20:57:24,10,active,1,Chicago,Gold Coast
+4912,900 W Fullerton Ave. - Personal Spot - #6,2017-11-08 21:49:15,1,active,1,Chicago,Lincoln Park
+392,1255 S Michigan Ave. - Sky55 Garage,2012-06-09 5:33:22,50,active,1,Chicago,South Loop
+5052,1044 W Newport Ave. - Lot,2019-08-22 14:38:09,3,active,1,Chicago,Lakeview - Chicago
+2285,1617 W Roscoe St. (3333 N Marshfield Ave.)  - Lakeview YMCA,2017-01-11 23:36:14,5,active,1,Chicago,Lakeview - Chicago
+3370,100 S Damen Ave - Lot,2019-05-08 20:26:01,50,active,1,Chicago,United Center
+2087,2050 N Western Ave. - Personal Spot,2019-02-27 21:41:17,1,active,1,Chicago,Logan Square
+1612,Citadel Garage,2015-07-15 14:28:43,45,active,1,Chicago,Loop SW
+4156,1440 W. Washington Blvd. - Lot,2019-10-08 21:29:08,38,active,1,Chicago,United Center
+457,3211 N. Wilton Ave - Lot,2017-09-05 21:46:25,7,active,1,Chicago,Lakeview - Chicago
+348,321 E Erie St. - Garage,2016-10-24 23:09:47,50,active,1,Chicago,Streeterville
+4190,814 W Newport - Personal Spot #4,2018-08-01 19:42:23,1,active,1,Chicago,Wrigleyville
+77,900 N Michigan Ave. - Garage,2013-11-27 21:14:55,300,active,1,Chicago,Magnificent Mile
+3563,75 W Harrison St. - Heated Indoor Garage,2013-06-10 19:39:58,50,active,1,Chicago,Loop SW
+5203,1230 N Clark St. - The Sinclair - Garage,2017-07-27 20:52:28,20,active,1,Chicago,Old Town - Chicago
+684,516 N Clark St. - Maggianos Valet,2016-10-04 18:48:58,25,active,1,Chicago,River North
+249,221 E Superior St. - Huron Superior Garage,2016-03-31 23:45:41,50,active,1,Chicago,Magnificent Mile
+5726,1453 W Huron St. - Lot,2017-08-10 21:47:10,1,active,1,Chicago,West Town
+5269,1200 W Randolph St. - City Winery - Valet,2017-07-27 21:44:30,10,inactive,1,Chicago,West Loop
+4048,2848 N Broadway - Garage,2016-12-28 15:25:25,35,active,1,Chicago,Lakeview - Chicago
+830,325 W Wolf Point Plaza - Wolf Point Garage,2015-01-06 0:24:15,125,active,1,Chicago,River North
+4906,71 W Elm St - Elm Street Plaza - Garage,2018-10-04 18:01:41,10,active,1,Chicago,Gold Coast
+355,1410 N Honore St. - Under EL,2013-08-01 16:34:15,2,active,1,Chicago,Wicker Park
+3327,850 N State St. - Garage,2014-11-18 21:59:48,50,active,1,Chicago,Near North
+3986,101 S Halsted St. - Lot,2014-08-25 23:46:01,20,active,1,Chicago,West Loop
+2011,5222 S Lake Park Ave. - Harper Court Garage,2016-03-22 13:15:30,20,active,1,Chicago,Hyde Park - Chicago
+708,Midway Speed Park - Uncovered Valet,2017-03-07 19:44:47,40,active,1,Chicago,MDW
+73,211 W Adams St. - Willis Tower Garage,2015-01-06 5:50:14,180,active,1,Chicago,Loop SW
+2005,Greenway Self Park - Garage,2014-04-21 21:10:51,350,active,1,Chicago,River North
+429,2935 N Clark - Personal Spot #4,2017-08-29 17:04:06,1,active,1,Chicago,Lakeview - Chicago
+5357,2154 W. Lake St. - Lot,2019-10-07 19:36:13,60,active,1,Chicago,West Town
+3227,Sheraton Suites OHare - Uncovered Self Park,2019-08-20 18:30:55,10,active,1,Chicago,ORD
+2234,21 E Cullerton St.  - Under EL,2012-07-02 17:33:24,3,active,1,Chicago,Near South Side
+3584,365 N Halsted St. - K2 Apartments Garage,2018-12-28 17:48:28,50,active,1,Chicago,West Loop
+657,165 N Clinton St. - Metra Market Garage,2013-02-05 15:36:47,100,active,1,Chicago,West Loop
+4363,616 W Arlington Pl. - Lot,2018-11-19 22:33:38,4,active,1,Chicago,Lincoln Park
+159,2421 S State St. - Under EL,2015-03-31 23:01:38,20,active,1,Chicago,Near South Side
+129,730 W Lake St. - Lot,2014-05-26 22:27:14,15,active,1,Chicago,West Loop
+3724,2550 N Lincoln Ave. - Apollo Theatre Lot,2019-05-08 21:13:11,21,active,1,Chicago,Lincoln Park
+5475,The Rose Hotel - Uncovered Self Park,2019-06-21 15:59:37,30,active,1,Chicago,ORD
+5797,630 N Rush St. - Garage,2015-01-15 20:47:57,25,active,1,Chicago,Magnificent Mile
+353,Aon Center Parking Garage,2015-10-14 15:22:55,300,active,1,Chicago,Loop NE
+839,17-21 E Adams St. - Adams & Wabash Garage,2015-01-06 4:50:01,500,active,1,Chicago,Loop SE
+79,541 W Lake St. - Lot,2012-01-07 23:23:03,10,active,1,Chicago,West Loop
+3506,Chicago Marriott Suites OHare - Uncovered Self Park,2014-06-26 17:20:28,20,active,1,Chicago,ORD
+423,60 E Lake St - Rolls Royce Garage,2015-10-26 19:19:25,40,active,1,Chicago,Loop NE
+1972,220 W Illinois St. - Oakwood Chicago River North,2015-03-27 21:34:28,75,active,1,Chicago,River North
+4538,520 N Kingsbury St. - Grand Kingsbury Garage,2017-03-10 20:15:44,90,active,1,Chicago,River North
+6401,11 E 23rd St. - Under EL,2016-07-22 15:11:48,20,active,1,Chicago,Near South Side
+3381,100 E Walton St. - Valet,2016-01-22 17:01:21,97,active,1,Chicago,Magnificent Mile
+1845,2960 N Lake Shore Dr. - Valet Garage,2015-08-26 0:02:26,25,active,1,Chicago,Lakeview - Chicago
+1052,111 W Jackson Blvd. - Valet Garage,2013-04-01 23:12:48,5,active,1,Chicago,Loop SW
+5545,180 N Franklin St. - Lake-Franklin Garage,2015-04-01 23:23:20,400,active,1,Chicago,Loop NW
+1556,1500 W Carroll Ave. - Lot,2018-01-22 23:11:58,19,active,1,Chicago,West Town
+4997,401 N State St. - Garage,2020-01-16 16:45:28,300,active,1,Chicago,Magnificent Mile
+327,OHare Blue Sky Parking - Uncovered Valet-Assist,2015-11-03 16:41:38,200,active,1,Chicago,ORD
+5334,300 N State St. - Valet,2017-11-30 15:00:39,30,active,1,Chicago,River North
+3388,Park Michigan - Garage,2013-06-25 14:27:26,35,active,1,Chicago,South Loop
+97,Prudential Plaza Garage,2014-04-01 14:40:14,165,active,1,Chicago,Loop NE
+2446,100 E Bellevue Pl. - Valet-Assist Garage,2017-01-17 21:44:57,20,active,1,Chicago,Gold Coast
+5182,975 W Wilson Ave. (4607 N Sheridan Rd.) - Garage,2018-11-14 15:54:04,12,active,1,Chicago,Uptown - Chicago
+1846,425 S Wells St. - Wells Public Parking - Valet Garage,2019-01-18 17:56:56,25,active,1,Chicago,Loop SW
+615,Schiller St. North - Under EL,2015-09-24 20:42:16,6,active,1,Chicago,Old Town - Chicago
+1160,Park N Jet - Uncovered Self Park/Valet,2014-01-14 23:35:52,25,active,1,Chicago,ORD
+5620,3824 N Clark St. - Lot,2018-05-22 16:13:21,3,active,1,Chicago,Wrigleyville
+1109,950 N Kingsbury St. - Garage,2015-10-08 21:37:17,20,active,1,Chicago,Near North
+1667,150 N Wacker Dr. - Valet,2016-01-13 23:33:00,35,active,1,Chicago,Loop NW
+4887,170 N Desplaines St. (640 W Randolph St.) - Lot,2019-08-30 15:14:55,34,active,1,Chicago,West Loop
+3156,230 W North Ave. - Pipers Alley Garage,2014-08-20 14:48:35,150,active,1,Chicago,Lincoln Park
+770,365 N Jefferson (Alta K Station Garage),2015-09-23 20:16:03,80,active,1,Chicago,West Loop
+5121,134 E 24th St. - Lot,2019-02-18 14:43:16,140,active,1,Chicago,Near South Side
+3991,1484 N Milwaukee Ave. - Lot (Alley Spots),2018-02-13 21:20:00,5,active,1,Chicago,Wicker Park
+3855,620 Madison St. - Lot,2016-03-15 16:15:53,40,active,1,Chicago,Evanston
